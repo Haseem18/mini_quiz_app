@@ -112,6 +112,7 @@ const displayQuiz = () => {
     })
 
     questionIndex = 0;
+    correctCount = 0;
     renderQuestion();
     
 }
